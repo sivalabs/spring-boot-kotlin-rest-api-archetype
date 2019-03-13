@@ -1,4 +1,4 @@
-# spring-boot-java-rest-api-secure-archetype
+# spring-boot-kotlin-rest-api-archetype
 
 ## How to use?
 
